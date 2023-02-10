@@ -14,7 +14,7 @@ Afterwards, I focused on website development
 # Nadeef Muttaqin Chowdhury
 ### Programmer, Data Analyst, Web Developer, Aspiring Roboticist
 
-Hello, everyone. I am Nadeef Muttaqin Chowdhury, a self taught programmer, website developer, data analyst and aspiring roboticist.
+<p style='text-align:center'>Hello, everyone. I am Nadeef Muttaqin Chowdhury, a self taught programmer, website developer, data analyst and aspiring roboticist.
 
 Coding has been a passion for me since I was 12. I started learning C after reading an article on programming in a teen magazine one day, and looking back now, it has been one of the best decisions I have made in my life.
 I started with basic C programming and I was into robotics since the beginning as an active member of Rajuk College Robotics Club. I started participating in robotics-based competitions and by the grace of Almighty, won prizes too. 
@@ -27,4 +27,4 @@ Afterwards, I focused on website development and learnt HTML, CSS, javascript, R
 
 After I enrolled in Notre Dame College, Dhaka, I found a hospitable atmosphere to practice and enhance my coding abilities at Notre Dame Information Technology Club. I worked in the development of the first AI created by any college-level club in Bangladesh, the Evya. Besides, I was a regular content writer for the club.
 My future plan is to help in building Bangladesh as a progressive nation of the 4th Industrial Revolution, specially in the field of Robotics and Artificial Intelligence. Above all, I would like to be a constant contributor to the world of technology.
-
+</p>
