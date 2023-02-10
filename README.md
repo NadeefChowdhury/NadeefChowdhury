@@ -14,7 +14,7 @@ Afterwards, I focused on website development
 # Nadeef Muttaqin Chowdhury
 ### Programmer, Data Analyst, Web Developer, Aspiring Roboticist
 
-<p style='text-align:center'>Hello, everyone. I am Nadeef Muttaqin Chowdhury, a self taught programmer, website developer, data analyst and aspiring roboticist.
+<p align='center'>Hello, everyone. I am Nadeef Muttaqin Chowdhury, a self taught programmer, website developer, data analyst and aspiring roboticist.
 
 Coding has been a passion for me since I was 12. I started learning C after reading an article on programming in a teen magazine one day, and looking back now, it has been one of the best decisions I have made in my life.
 I started with basic C programming and I was into robotics since the beginning as an active member of Rajuk College Robotics Club. I started participating in robotics-based competitions and by the grace of Almighty, won prizes too. 
