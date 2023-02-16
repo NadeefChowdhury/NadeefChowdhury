@@ -11,7 +11,7 @@ I started with basic C programming and I was into robotics since the beginning. 
 Afterwards, I focused on website development 
 
 -->
-
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2SfjLfcfZSldsO2UsaxGBVTlg_YA33Maitg&usqp=CAU)
 # Nadeef Muttaqin Chowdhury
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2SfjLfcfZSldsO2UsaxGBVTlg_YA33Maitg&usqp=CAU"    alt='Python' style='margin-left:20vw; margin-right:20vw' />&nbsp;
 ### Programmer, Data Analyst, Web Developer, Aspiring Roboticist
